@@ -6,8 +6,8 @@ The former presents an texture synthesis algorithm by modeling the statistics fe
 
 <table>
 	<tr>
-		<td><center>texture sample</center></td>
-		<td><center>synthesized texture</center></td>
+		<td><center>*texture sample*</center></td>
+		<td><center>*synthesized texture*</center></td>
 	</tr>
 	<tr>
 		<td>
